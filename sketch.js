@@ -10,7 +10,7 @@ class ElementoVisual{
 
   dibujar() {
     fill(this.color);
-    rect(this.#x, this.#y, 10, 10);
+    rect(this.#x, this.#y, 20, 20);
   }
 }
 
